@@ -14,7 +14,7 @@
 ## Non-Credit
 
 * UVA - Data Science Bootcamp - 13 times from 2016-2021 - content and direction
-* UVA - Library Technical Workshops - 21 workshops
+* UVA - Library Technical Workshops - 21 workshops (various topics, see below)
   * Machine Learning
   * Vizualization
   * GitHub/Git/Version Control
