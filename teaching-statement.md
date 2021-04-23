@@ -1,1 +1,5 @@
 # Peter Alonzi Teaching Statement
+My teaching philosophy is best expressed through three anecdotes that isolate my core principles. I believe in getting your hands dirty with practical work, I put others before myself, my pride comes from sucess of my students.
+
+## Anecdote 1: Rolling dice before Ms. Morris' 2nd grade class
+My second grade teacher, Ms. Morris, allowed students who arrived at school before the first bell to come in early and play quitely. She had several stations set up and I gravitated towards the math area. She had a set of polyhedral dice. I would later learn to call them by their propernames, d4, d6, d8, d10, d12, d20. I spend the entire fall rolling these dice over and over again and recording the results. I wanted to see if the dice were 'fair'. My teacher observed my play and posed a question to me, "How can you prove they are fair?". This single question opened up the world for me. I would go on to learn about histograms, statistics, and even a couple probability distributions. But the biggest lesson was that by careful observation a teacher can identify the right moment to ask the right question.
