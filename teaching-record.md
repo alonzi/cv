@@ -20,7 +20,7 @@
     * Online: May 2019, Aug 2019, Jan 2020, May 2020, Aug 2020, Jan 2021, April 2021, Aug 2021
 * UVA - Technical Orientation to MSDS program - 2021
 * UVA - BME Data Science Bootcamp - 2020
-* UVA - Library Technical Workshops - 21 workshops (various topics, see below)
+* UVA - Library Technical Workshops - 21 workshops (various topics, see below and [here](https://data.library.virginia.edu/training/past-workshops/))
   * Machine Learning
   * Vizualization
   * GitHub/Git/Version Control
