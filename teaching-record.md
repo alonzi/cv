@@ -3,8 +3,8 @@
 
 ## Credit
 * UVA - BME 6550 - A1 Data Science - 2021
-* UVA - DS ???? - Independent Study (Park) - 2018
-* UVA - DS ???? - Independent Study (Prasanth) - 2018
+* UVA - DS 6999 - Independent Study (Park) - 2018
+* UVA - DS 6999 - Independent Study (Prasanth) - 2018
 * UVA - DS 6501 - Data Wrangling in Python - 2018
 * UVA - DS 6559 - Data Wrangling in Python - 2016
 * UVA - DS 6559 - Data Wrangling in Python - 2015
