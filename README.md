@@ -6,5 +6,4 @@
 
 
 ## to add
-* https://arxiv.org/pdf/2012.04801.pdf (on archive, to be published in PRD)
 * $50,000 supplemental Southeastern Universities Research Association, Inc., Grant Agreement No. 2020-FEMT-006-05
