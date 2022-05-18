@@ -8,3 +8,4 @@
 ## to add
 * edit, forgot Nuclear in CENPA right at the top
 * typo in courses - phys lab was 2005
+* job change july 2022-present
