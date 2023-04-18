@@ -7,6 +7,5 @@
 
 ## to add
 
-* 2022 residential msds orientation, fall 2022 online msds orientation, 2022 phd orientation
 * And, friendly reminder: make a note to add 2023 Innovations in Pedagogy Summit Advisory Committee to your c.v. 😊
-* 
+ 
