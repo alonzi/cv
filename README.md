@@ -8,4 +8,6 @@
 ## to add
 
 * And, friendly reminder: make a note to add 2023 Innovations in Pedagogy Summit Advisory Committee to your c.v. 😊
+* add IE grant
+* fix dates on collaboratiosn
  
