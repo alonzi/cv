@@ -6,6 +6,3 @@
 
 
 ## to add
-
-* fix typos in teaching record
-* add new teaching assignments to teaching record
