@@ -2,8 +2,8 @@
 **Executive Summary:** This document contains a list of all teaching assignments I have done since graduating from college.
 
 ## Credit
-* UVA - DS 1001 - Foundations of Data Science - 2023 (new course)
-* UVA - DS 4002 - Data Science Project Course - 2022, 2023
+* UVA - DS 1001 - Foundations of Data Science - 2023 Spring (new course), 2023 Fall, 2024 Spring
+* UVA - DS 4002 - Data Science Project Course - 2022, 2023 Spring, 2023 Fall
 * UVA - BME 6550 - A1 Data Science - 2021
 * UVA - DS 6999 - Independent Study (Park) - 2018
 * UVA - DS 6999 - Independent Study (Prasanth) - 2018
