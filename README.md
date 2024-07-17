@@ -6,4 +6,4 @@
 
 
 ## to add
-add sedsi conference proceedings
+add sedsi conference proceedings - https://arxiv.org/abs/2407.11824 - best paper award
