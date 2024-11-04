@@ -7,12 +7,12 @@
 * UVA - BME 6550 - A1 Data Science - J-Term 2021
 * UVA - DS 6999 - Independent Study (Park) - Fall 2018
 * UVA - DS 6999 - Independent Study (Prasanth) - Spring 2018
-* UVA - DS 6501 - Data Wrangling in Python - 2018
-* UVA - DS 6559 - Data Wrangling in Python - 2015,2016
-* UVA - PHYS 142W - Physics Workshop - 2007
-* UVA - PHYS 241W - Physics Workshop - 2006
-* UVA - PHYS 142W - Physics Workshop - 2006
-* UVA - PHYS 241W - Physics Workshop - 2005
+* UVA - DS 6501 - Data Wrangling in Python - S2018
+* UVA - DS 6559 - Data Wrangling in Python - F2015,F2016
+* UVA - PHYS 142W - Physics Workshop - S2007
+* UVA - PHYS 241W - Physics Workshop - F2006
+* UVA - PHYS 142W - Physics Workshop - S2006
+* UVA - PHYS 241W - Physics Workshop - F2005
 
 ## Non-Credit
 
