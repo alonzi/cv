@@ -13,8 +13,3 @@ One day my class was working on our expository essays and we were sent to the sc
 ### Anecdote 3: The biggest paper of my career
 After years and years of research in the field of particle physics, work that I contributed to made the front page of the New York Times. That was exciting, and certainly yielded the most seminal publication of my career. But the feeling I got was strange. My father asked me how it felt to get that result published and my response was, “I’m actually far prouder of smaller papers along the way where my students, the ones I trained up, were first author”. What drives me is the success of my students. For me the joy of research doesn’t come from publishing a result. It comes from helping my students level up. That is how we ensure the future.
 
-## Educational activities at UVA
-I have had the pleasure of being the first person to teach every student in every program at the Data Science Institue and now the School of Data Science from 2017-2024. I was the principal architech of the new Bachelor's Degree in Data Science (BSDS) at the UVA School of Data Science along with my colleague Professor Wright. I am extremely proud of this work and the main objective of my time teaching at UVA is to help student's achieve their objectives and overcome the obstacles standing in their way. The first course I taught at UVA was in 2005 and my first course for Data Science at UVA was in 2015. I am extremely proud to be entering my third decade teaching at UVA in the Spring semester of 2025.
-
-## Future Teaching Plans
-I have no intention to stop teaching. I have dedicated myself to this art
