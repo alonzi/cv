@@ -11,3 +11,5 @@ add sedsi conference proceedings - https://arxiv.org/abs/2407.11824 - best paper
 fix typo - jefferson trust
 
 add adsa conference, program committee, student keynote committee, presentation with raf - https://adsa24.sched.com/list/simple/
+
+add Model AI Assignments 2025 Todd W. Neller et. al from EAAI-25
