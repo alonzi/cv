@@ -9,4 +9,4 @@ UVADS added a new cv schema - I now use main.tex to produce cv_uvads.pdf. The re
 
 ## to add
 
-add Model AI Assignments 2025 Todd W. Neller et. al from EAAI-25
+* add Model AI Assignments 2025 Todd W. Neller et. al from EAAI-25
