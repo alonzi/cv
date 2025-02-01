@@ -18,4 +18,4 @@ UVADS added a new cv schema - I now use main.tex to produce cv_uvads.pdf. The re
   The handbook of presentations and abstracts can also be found here: https://tsec.mtsu.edu/wp-content/uploads/sites/67/2025/01/SSERC-2025-Program-Abstracts-1.pdf
 * add adsa 2023 brian and ali talk, also lightning talk
 * add SIEDS papers and don't forget best paper award for 2024 group
-* 
+* ADSA guidebook - https://zenodo.org/records/8329337
