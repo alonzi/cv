@@ -17,8 +17,11 @@ UVADS added a new cv schema - I now use main.tex to produce cv_uvads.pdf. The re
     * Yik, B. J., Alonzi III, L. P., Wright, B. M., & Stains, M. Specifications Grading in Data Science Education: Implementation and Evaluation of Proposed Student Outcomes. Presented at the 19th Annual Southeastern STEM Education Research Conference (S2ERC; University of Alabama at Birmingham), Birmingham, AL, January 10–11, 2025 [Conference canceled to due severe weather].
   The handbook of presentations and abstracts can also be found here: https://tsec.mtsu.edu/wp-content/uploads/sites/67/2025/01/SSERC-2025-Program-Abstracts-1.pdf
 * add adsa 2023 brian and ali talk, also lightning talk
-* aSIEDS Best paper award
-    * 
+* SIEDS 2024 Best paper award
+    * Banino, S., Boulos, G., Craft, C., Phillips, L., Sydnor, S. Alonzi, L. P., III, Smith, M. C., White, Vitale M (2024) “Analyzing Candidates for Home Electronic Incarceration on Return-to-Custody Rates for Inmates”, Proceedings of
+the 2024 IEEE Systems and Information Engineering Design
+Symposium, Charlottesville, Virginia, April
+
 * ADSA guidebook - https://zenodo.org/records/8329337
 * 2024 pedagogy summit
 * Yik, B. J., Alonzi III, L. P., Wright, B. M., & Stains, M. Specifications Grading in Data Science Education: Implementation and Evaluation of Proposed Student Outcomes. Presented at the 19th Annual Southeastern STEM Education Research Conference (S2ERC; University of Alabama at Birmingham), Birmingham, AL, January 10–11, 2025 [Conference canceled to due severe weather].
