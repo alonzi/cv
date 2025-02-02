@@ -33,4 +33,6 @@ Symposium, Charlottesville, Virginia, April
      * Ajay Anand, PhD, Professor and Deputy Director, Goergen Institute for Data Science, University of Rochester
      * Peter Alonzi, PhD, Assistant Professor, Deputy Director Undergraduate Programs, School of Data Science, University of Virginia
 
- 
+* Sedsi proceedings - https://sedsi.decisionsciences.org/wp-content/uploads/sites/7/2024/08/SEDSI-2024-Proceedings-2.pdf
+    * THE FUTURE OF DATA SCIENCE EDUCATION (Best paper in Innovative Education, Assessment, Engaged Learning, Curriculum, Teaching and Pedagogy track)
+    * What story can you tell from your cell phone apps?: A Data Science Lab Exercise
