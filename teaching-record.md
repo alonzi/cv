@@ -1,5 +1,5 @@
 # Teaching Assignments
-**Executive Summary:** This document contains a list of all teaching assignments I have done since graduating from college.
+**Executive Summary:** This document contains a list of all teaching assignments I have held since graduating from college.
 
 ## Credit
 * UVA - SYS 4054 - Systems Capstone Design II - Spring 2025
