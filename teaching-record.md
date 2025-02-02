@@ -6,7 +6,7 @@
 * UVA - SYS 4053 - Systems Capstone Design I - Fall 2024
 * UVA - DS 1001 - Foundations of Data Science - 2023 Spring (new course), 2023 Fall, 2024 Spring, 2024 Fall
 * UVA - DS 4002 - Data Science Project Course - 2022, 2023 Spring, 2023 Fall, 2024 Fall
-* UVA - BME 6550 - A1 Data Science - J-Term 2021
+* UVA - BME 6550 - A1 Data Science - J-Term 2021 (new course)
 * UVA - DS 6999 - Independent Study (Park) - Fall 2018
 * UVA - DS 6999 - Independent Study (Prasanth) - Spring 2018
 * UVA - DS 6501 - Data Wrangling in Python - Spring 2018
