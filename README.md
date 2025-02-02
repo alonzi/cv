@@ -21,3 +21,12 @@ UVADS added a new cv schema - I now use main.tex to produce cv_uvads.pdf. The re
 * ADSA guidebook - https://zenodo.org/records/8329337
 * 2024 pedagogy summit
 * Yik, B. J., Alonzi III, L. P., Wright, B. M., & Stains, M. Specifications Grading in Data Science Education: Implementation and Evaluation of Proposed Student Outcomes. Presented at the 19th Annual Southeastern STEM Education Research Conference (S2ERC; University of Alabama at Birmingham), Birmingham, AL, January 10–11, 2025 [Conference canceled to due severe weather].
+* HDSR article - Scientific Method as a Guiding Principle for the Data Science Lifecycle
+     * Brian Wright, PhD, Quantitative Foundation Associate Professor of Data Science, Director of Undergraduate Programs, School of Data Science, University of Virginia
+     * Galin Jones, PhD, Dr. Lynn Y.S. Lin Professor of Statistics and Director of the School of Statistics, University of Minnesota
+     * Micaela Parker, PhD, Founder and Executive Director, Academic Data Science Alliance (ADSA)
+     * Anthony Suen, Director, Data Science Discovery Program, University of California, Berkeley
+     * Ajay Anand, PhD, Professor and Deputy Director, Goergen Institute for Data Science, University of Rochester
+     * Peter Alonzi, PhD, Assistant Professor, Deputy Director Undergraduate Programs, School of Data Science, University of Virginia
+
+
