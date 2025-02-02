@@ -6,8 +6,9 @@
 
 ## to add
 
-* add Model AI Assignments 2025 Todd W. Neller et. al from EAAI-25
-* mentor Layla, Madelyn, Eric
+* add full citation alnd link for Model AI Assignments 2025 Todd W. Neller et. al from EAAI-25
+
+
 * add systems capstone to teaching record fa24/sp25 actually on roster as teaching it
 * update teaching record with orientations and workshops
 * specs paper with yik submitted - S2ECR conference
