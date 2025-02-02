@@ -19,3 +19,5 @@ UVADS added a new cv schema - I now use main.tex to produce cv_uvads.pdf. The re
 * add adsa 2023 brian and ali talk, also lightning talk
 * add SIEDS papers and don't forget best paper award for 2024 group
 * ADSA guidebook - https://zenodo.org/records/8329337
+* 2024 pedagogy summit
+* Yik, B. J., Alonzi III, L. P., Wright, B. M., & Stains, M. Specifications Grading in Data Science Education: Implementation and Evaluation of Proposed Student Outcomes. Presented at the 19th Annual Southeastern STEM Education Research Conference (S2ERC; University of Alabama at Birmingham), Birmingham, AL, January 10–11, 2025 [Conference canceled to due severe weather].
