@@ -2,6 +2,8 @@
 **Executive Summary:** This document contains a list of all teaching assignments I have done since graduating from college.
 
 ## Credit
+* UVA - SYS 4054 - Systems Capstone Design II - Spring 2025
+* UVA - SYS 4053 - Systems Capstone Design I - Fall 2024
 * UVA - DS 1001 - Foundations of Data Science - 2023 Spring (new course), 2023 Fall, 2024 Spring, 2024 Fall
 * UVA - DS 4002 - Data Science Project Course - 2022, 2023 Spring, 2023 Fall, 2024 Fall
 * UVA - BME 6550 - A1 Data Science - J-Term 2021
