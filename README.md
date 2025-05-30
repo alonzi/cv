@@ -6,4 +6,4 @@
 
 ## to add
 
-* 
+* ADSA 2024 proceedings - https://adsa.pubpub.org/proceedings-of-the-2024-adsa-annual-meeting
