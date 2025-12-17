@@ -2,11 +2,11 @@
 **Executive Summary:** This document contains a list of all teaching assignments I have held since graduating from college.
 
 ## Credit
-* UVA - INST 3600 - Unforgettable Lectures - Sp25 (one lecture)
+* UVA - INST 3600 - Unforgettable Lectures - Sp25,Fa25 (one lecture)
 * UVA - SYS 4054 - Systems Capstone Design II - Sp25
 * UVA - SYS 4053 - Systems Capstone Design I - Fa24
 * UVA - DS 1001 - Foundations of Data Science - Sp23 (new course), Fa23, Sp24, Fa24, Sp25
-* UVA - DS 4002 - Data Science Project Course - Fa22, Sp23, Fa23, Fa24, Sp25
+* UVA - DS 4002 - Data Science Project Course - Fa22, Sp23, Fa23, Fa24, Sp25, Fa25
 * UVA - BME 6550 - A1 Data Science - J-Term 2021 (new course)
 * UVA - DS 6999 - Independent Study (Park) - Fa18
 * UVA - DS 6999 - Independent Study (Prasanth) - Sp18
