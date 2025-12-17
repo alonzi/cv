@@ -42,3 +42,4 @@
   * LaTeX
   * Linux 101
 * Mentored UVADS Cursor Club
+* UVA - Laptop Buying Guide
