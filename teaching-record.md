@@ -41,3 +41,4 @@
   * APIs
   * LaTeX
   * Linux 101
+* Mentored UVADS Cursor Club
