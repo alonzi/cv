@@ -5,3 +5,4 @@
 #### My teaching statement: https://github.com/alonzi/cv/blob/master/teaching-statement.md
 
 ## to add
+grigsby and all femtography students
