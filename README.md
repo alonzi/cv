@@ -11,3 +11,4 @@
 * emma ca would like my cv to be comliant with rules
 * https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.016001 (check that this is in the CV and add)
 * public service award from UVA
+* Add 2026 Breaththrough Prize for Fundamental Physics for g-2
