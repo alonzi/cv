@@ -24,7 +24,7 @@
    * HPC - Fa22,Sp22,Fa23,Fa24,Fa25
    * Cloud Computing - Fa22,Sp22,Fa24,Sp25,Fa25
    * IDE/Debugging - Fa23
-   * Version Contro - Fa23
+   * Version Control - Fa23
    * Coding with AI - 2x Sp25,Fa25
    * Agentic Coding - Sp26
 * UVA - PhD Technical Orientation - Aug 2022, Aug 2023, Fall 2024, Fall 2025
