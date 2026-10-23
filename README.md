@@ -5,4 +5,5 @@
 #### My teaching statement: https://github.com/alonzi/cv/blob/master/teaching-statement.md
 
 ## to add
-https://hdsr.mitpress.mit.edu/pub/xxb041qb/release/1
+* https://hdsr.mitpress.mit.edu/pub/xxb041qb/release/1
+* capstone classes in UVADS
